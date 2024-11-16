@@ -2,7 +2,7 @@ Requirements:
 Any Webserver with php and sqlite3 module, example uses XAMPP
 
 Deutsch:
-Das Miniprojekt setzt ein php voraus, welches in der php.ini das moduls sqllite3 aktiviert hat. 
+Das Miniprojekt setzt ein php voraus, welches in der php.ini das moduls sqlite3 aktiviert hat. 
 Für eine Entwicklerversison und zum Testen reicht es dafür xampp zu installieren:
 https://www.apachefriends.org/download.html
 Nach dem das Setup ausgeführt wurde das Xampp Control Panel starten
