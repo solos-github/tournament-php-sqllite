@@ -115,8 +115,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['update_platzierung']))
 <!-- Menu Section -->
 <div class="menu">
     <a href="results.php">Ergebnisse</a>
-    <a href="edit-tables.php">Turnier bearbeiten</a>
-    <a href="another-page.php">Andere Seite</a> <!-- Add any other links as needed -->
+    <a href="edit.php">Bearbeiten</a>
+    <!-- <a href="another-page.php">Andere Seite</a> --> <!-- Add any other links as needed -->
 </div>
 
 <h2>Spiele bearbeiten</h2>
