@@ -2,7 +2,7 @@ Requirements:
 Any Webserver with php and sqlite3 module, example uses XAMPP
 
 Deutsch:
-Das Miniprojekt setzt ein php voraus, welches in der php.ini das moduls sqllite3 aktiviert hat.
+Das Miniprojekt setzt ein php voraus, welches in der php.ini das moduls sqllite3 aktiviert hat. 
 Für eine Entwicklerversison und zum Testen reicht es dafür xampp zu installieren:
 https://www.apachefriends.org/download.html
 Nach dem das Setup ausgeführt wurde das Xampp Control Panel starten
@@ -24,6 +24,9 @@ Dadurch wird automatisch die sqlite3 Datenbank angelegt:
 Die Datenbank enthält Beispieldaten die man sich direkt über http://localhost/turnier/create.php ansehen kann:
 
 ![image](https://github.com/user-attachments/assets/582ab649-833e-43f6-a9f5-f90baf430e28)
+
+Da sqlite eine filebasierte Datenbank ist, wird im verzeichnis c:\xampp\htdocs\turnier eine tournament.db angelegt, die alle daten beinhaltet.
+Die Datei kann auch gelöscht und durch erneuten Aufruf der create.php neu erzeugt werden.
 
 Das bearbeiten von den Tabellen sollte selbstverständlich sein.
 
