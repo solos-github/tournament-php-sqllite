@@ -10,7 +10,7 @@ Nach dem das Setup ausgeführt wurde das Xampp Control Panel starten
 
 ![image](https://github.com/user-attachments/assets/19a42da0-cd09-459e-8622-ea1a2590531c)
 
-iÍn der Zeile Apache auf den Button "Config" klicken und die php.ini bearbeiten.
+Ín der Zeile Apache auf den Button "Config" klicken und die php.ini bearbeiten.
 In der ini-Datei nach "extension=sqlite3" suchen und das Semikolon davor entfernen, damit die Extension nicht mehr auskommentiert ist.
 Ini speichern und in der Zeile des Apache auf "Start" klicken, dadurch wird der apache-webserver gestartet.
 
