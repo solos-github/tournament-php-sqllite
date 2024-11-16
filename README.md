@@ -9,11 +9,12 @@ Nach dem das Setup ausgeführt wurde das Xampp Control Panel starten
 
 ![image](https://github.com/user-attachments/assets/19a42da0-cd09-459e-8622-ea1a2590531c)
 
-in der Zeile Apache auf den Button "Config" klicken und die php.ini bearbeiten.
+iÍn der Zeile Apache auf den Button "Config" klicken und die php.ini bearbeiten.
 In der ini-Datei nach "extension=sqlite3" suchen und das Semikolon davor entfernen, damit die Extension nicht mehr auskommentiert ist.
 Ini speichern und in der Zeile des Apache auf "Start" klicken, dadurch wird der apache-webserver gestartet.
-Einfach die 3 Dateien create,resulsts und edit.php in das htpdocs-Verzeichnis des Xampp kopieren. Wenn das Verzeichnis nicht manuell geändert wurde 
-müssen die Dateien nach c:\xampp\htdocs\ um im Webserver verarbeitet zu werden bei mir gehen die Dateien nach c:\xampp\htdocs\turnier(Ordner turnier anlegen).
+
+Einfach die 3 Dateien create,results und edit.php in das htpdocs-Verzeichnis des Xampp kopieren. Wenn das Verzeichnis nicht manuell geändert wurde 
+müssen die Dateien mindestens nach c:\xampp\htdocs\ um im Webserver verarbeitet zu werden bei mir gehen die Dateien nach c:\xampp\htdocs\turnier(Ordner turnier anlegen).
 
 
 Anschließend vom Browser nach http://localhost/turnier/create.php navigieren.
