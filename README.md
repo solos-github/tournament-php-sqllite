@@ -1,5 +1,6 @@
 Requirements:
-Any Webserver with php and sqlite3 module, example uses XAMPP
+- Any Webserver with php and sqlite3 module, example uses XAMPP
+- Any OS in my Case using Windows
 
 Deutsch:
 Das Miniprojekt setzt ein php voraus, welches in der php.ini das moduls sqlite3 aktiviert hat. 
