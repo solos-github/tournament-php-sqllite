@@ -28,7 +28,10 @@ Die Datenbank enthält Beispieldaten die man sich direkt über http://localhost/
 Da sqlite eine filebasierte Datenbank ist, wird im verzeichnis c:\xampp\htdocs\turnier eine tournament.db angelegt, die alle daten beinhaltet.
 Die Datei kann auch gelöscht und durch erneuten Aufruf der create.php neu erzeugt werden.
 
-Das bearbeiten von den Tabellen sollte selbstverständlich sein.
+Das bearbeiten von den Tabellen sollte selbstverständlich sein hier trotzdem ein Screenshot:
+
+![image](https://github.com/user-attachments/assets/689fc43e-26d6-4896-8bf8-840b2647999a)
+
 
 
 Wenn der Webserver auch von anderen Geräten aus dem Netzwerk erreichbar sein, muss dafür noch die Apache-Config kurz angepasst werden.
