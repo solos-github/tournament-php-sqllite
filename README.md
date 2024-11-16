@@ -16,9 +16,13 @@ müssen die Dateien nach c:\xampp\htdocs\ um im Webserver verarbeitet zu werden 
 
 Anschließend vom Browser nach http://localhost/turnier/create.php navigieren.
 Dadurch wird automatisch die sqlite3 Datenbank angelegt:
+
 ![image](https://github.com/user-attachments/assets/19ece383-46dc-471d-9609-0f03c102c7a7)
+
 Die Datenbank enthält Beispieldaten die man sich direkt über http://localhost/turnier/create.php ansehen kann:
+
 ![image](https://github.com/user-attachments/assets/582ab649-833e-43f6-a9f5-f90baf430e28)
+
 Das bearbeiten von den Tabellen sollte selbstverständlich sein.
 
 
